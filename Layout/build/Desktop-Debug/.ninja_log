@@ -1,0 +1,21 @@
+# ninja log v5
+18	1966	7560579592608159	Layout_autogen/timestamp	2930a9dfa3c42fae
+18	1966	7560579592608159	Layout_autogen/mocs_compilation.cpp	2930a9dfa3c42fae
+18	1966	7560579592608159	C:/Users/modug/OneDrive/Desktop/QT5 Creator/Layout/build/Desktop-Debug/Layout_autogen/timestamp	2930a9dfa3c42fae
+18	1966	7560579592608159	C:/Users/modug/OneDrive/Desktop/QT5 Creator/Layout/build/Desktop-Debug/Layout_autogen/mocs_compilation.cpp	2930a9dfa3c42fae
+1975	4350	7560579617981005	CMakeFiles/Layout.dir/Layout_autogen/mocs_compilation.cpp.obj	44919e7b0a9f50b9
+1994	4361	7560579618116173	CMakeFiles/Layout.dir/main.cpp.obj	4995888a00e132e2
+2015	4402	7560579618507246	CMakeFiles/Layout.dir/mainwindow.cpp.obj	bfc2782b3344ae5c
+4402	5287	7560579626947670	Layout.exe	cc872b879569cee
+27	520	7560580599424858	Layout_autogen/timestamp	2930a9dfa3c42fae
+27	520	7560580599424858	Layout_autogen/mocs_compilation.cpp	2930a9dfa3c42fae
+27	520	7560580599424858	C:/Users/modug/OneDrive/Desktop/QT5 Creator/Layout/build/Desktop-Debug/Layout_autogen/timestamp	2930a9dfa3c42fae
+27	520	7560580599424858	C:/Users/modug/OneDrive/Desktop/QT5 Creator/Layout/build/Desktop-Debug/Layout_autogen/mocs_compilation.cpp	2930a9dfa3c42fae
+535	3061	7560580646768015	CMakeFiles/Layout.dir/mainwindow.cpp.obj	bfc2782b3344ae5c
+3062	3625	7560580651515764	Layout.exe	cc872b879569cee
+25	513	7560587069993930	Layout_autogen/timestamp	2930a9dfa3c42fae
+25	513	7560587069993930	Layout_autogen/mocs_compilation.cpp	2930a9dfa3c42fae
+25	513	7560587069993930	C:/Users/modug/OneDrive/Desktop/QT5 Creator/Layout/build/Desktop-Debug/Layout_autogen/timestamp	2930a9dfa3c42fae
+25	513	7560587069993930	C:/Users/modug/OneDrive/Desktop/QT5 Creator/Layout/build/Desktop-Debug/Layout_autogen/mocs_compilation.cpp	2930a9dfa3c42fae
+531	3478	7560587125921282	CMakeFiles/Layout.dir/mainwindow.cpp.obj	bfc2782b3344ae5c
+3478	4148	7560587131831747	Layout.exe	cc872b879569cee

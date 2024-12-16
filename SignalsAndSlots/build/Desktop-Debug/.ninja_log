@@ -1,0 +1,27 @@
+# ninja log v5
+19	1914	7560551411008674	SignalsAndSlots_autogen/timestamp	f63e2c5efbb9f382
+19	1914	7560551411008674	SignalsAndSlots_autogen/mocs_compilation.cpp	f63e2c5efbb9f382
+19	1914	7560551411008674	C:/Users/modug/OneDrive/Desktop/QT5 Creator/SignalsAndSlots/build/Desktop-Debug/SignalsAndSlots_autogen/timestamp	f63e2c5efbb9f382
+19	1914	7560551411008674	C:/Users/modug/OneDrive/Desktop/QT5 Creator/SignalsAndSlots/build/Desktop-Debug/SignalsAndSlots_autogen/mocs_compilation.cpp	f63e2c5efbb9f382
+1922	4307	7560551436346743	CMakeFiles/SignalsAndSlots.dir/SignalsAndSlots_autogen/mocs_compilation.cpp.obj	4397bb4d13720c55
+1939	4418	7560551437485183	CMakeFiles/SignalsAndSlots.dir/main.cpp.obj	99241bfcda72f8dd
+1956	4590	7560551439048146	CMakeFiles/SignalsAndSlots.dir/mainwindow.cpp.obj	a50eec39dc2034f7
+4593	5524	7560551448207235	SignalsAndSlots.exe	e83dfbbf47dab9a8
+22	528	7560555494770534	SignalsAndSlots_autogen/timestamp	f63e2c5efbb9f382
+22	528	7560555494770534	SignalsAndSlots_autogen/mocs_compilation.cpp	f63e2c5efbb9f382
+22	528	7560555494770534	C:/Users/modug/OneDrive/Desktop/QT5 Creator/SignalsAndSlots/build/Desktop-Debug/SignalsAndSlots_autogen/timestamp	f63e2c5efbb9f382
+22	528	7560555494770534	C:/Users/modug/OneDrive/Desktop/QT5 Creator/SignalsAndSlots/build/Desktop-Debug/SignalsAndSlots_autogen/mocs_compilation.cpp	f63e2c5efbb9f382
+546	3122	7560555638056283	CMakeFiles/SignalsAndSlots.dir/mainwindow.cpp.obj	a50eec39dc2034f7
+3123	3774	7560555643526411	SignalsAndSlots.exe	e83dfbbf47dab9a8
+20	395	7560557067433685	SignalsAndSlots_autogen/timestamp	f63e2c5efbb9f382
+20	395	7560557067433685	SignalsAndSlots_autogen/mocs_compilation.cpp	f63e2c5efbb9f382
+20	395	7560557067433685	C:/Users/modug/OneDrive/Desktop/QT5 Creator/SignalsAndSlots/build/Desktop-Debug/SignalsAndSlots_autogen/timestamp	f63e2c5efbb9f382
+20	395	7560557067433685	C:/Users/modug/OneDrive/Desktop/QT5 Creator/SignalsAndSlots/build/Desktop-Debug/SignalsAndSlots_autogen/mocs_compilation.cpp	f63e2c5efbb9f382
+413	2910	7560557123317995	CMakeFiles/SignalsAndSlots.dir/mainwindow.cpp.obj	a50eec39dc2034f7
+2910	3426	7560557127246796	SignalsAndSlots.exe	e83dfbbf47dab9a8
+26	407	7560559696420915	SignalsAndSlots_autogen/timestamp	f63e2c5efbb9f382
+26	407	7560559696420915	SignalsAndSlots_autogen/mocs_compilation.cpp	f63e2c5efbb9f382
+26	407	7560559696420915	C:/Users/modug/OneDrive/Desktop/QT5 Creator/SignalsAndSlots/build/Desktop-Debug/SignalsAndSlots_autogen/timestamp	f63e2c5efbb9f382
+26	407	7560559696420915	C:/Users/modug/OneDrive/Desktop/QT5 Creator/SignalsAndSlots/build/Desktop-Debug/SignalsAndSlots_autogen/mocs_compilation.cpp	f63e2c5efbb9f382
+423	2771	7560559873479362	CMakeFiles/SignalsAndSlots.dir/mainwindow.cpp.obj	a50eec39dc2034f7
+2772	3313	7560559878067245	SignalsAndSlots.exe	e83dfbbf47dab9a8

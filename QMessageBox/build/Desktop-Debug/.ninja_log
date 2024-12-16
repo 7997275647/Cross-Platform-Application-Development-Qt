@@ -1,0 +1,35 @@
+# ninja log v5
+14	1934	7560562562503159	QMessageBox_autogen/timestamp	11dbaf333ba46b33
+14	1934	7560562562503159	QMessageBox_autogen/mocs_compilation.cpp	11dbaf333ba46b33
+14	1934	7560562562503159	C:/Users/modug/OneDrive/Desktop/QT5 Creator/QMessageBox/build/Desktop-Debug/QMessageBox_autogen/timestamp	11dbaf333ba46b33
+14	1934	7560562562503159	C:/Users/modug/OneDrive/Desktop/QT5 Creator/QMessageBox/build/Desktop-Debug/QMessageBox_autogen/mocs_compilation.cpp	11dbaf333ba46b33
+1945	4239	7560562587212787	CMakeFiles/QMessageBox.dir/QMessageBox_autogen/mocs_compilation.cpp.obj	a33d6112e74b84fc
+1959	4274	7560562587602740	CMakeFiles/QMessageBox.dir/main.cpp.obj	551dd60cd88c95ac
+1982	4345	7560562588189536	CMakeFiles/QMessageBox.dir/mainwindow.cpp.obj	5ea988a6409c048d
+4347	5164	7560562596139582	QMessageBox.exe	78b5b19d9172167e
+20	415	7560566644289767	QMessageBox_autogen/timestamp	11dbaf333ba46b33
+20	415	7560566644289767	QMessageBox_autogen/mocs_compilation.cpp	11dbaf333ba46b33
+20	415	7560566644289767	C:/Users/modug/OneDrive/Desktop/QT5 Creator/QMessageBox/build/Desktop-Debug/QMessageBox_autogen/timestamp	11dbaf333ba46b33
+20	415	7560566644289767	C:/Users/modug/OneDrive/Desktop/QT5 Creator/QMessageBox/build/Desktop-Debug/QMessageBox_autogen/mocs_compilation.cpp	11dbaf333ba46b33
+431	2731	7560566693216818	CMakeFiles/QMessageBox.dir/mainwindow.cpp.obj	5ea988a6409c048d
+2732	3319	7560566698350628	QMessageBox.exe	78b5b19d9172167e
+27	515	7560569842689545	QMessageBox_autogen/timestamp	11dbaf333ba46b33
+27	515	7560569842689545	QMessageBox_autogen/mocs_compilation.cpp	11dbaf333ba46b33
+27	515	7560569842689545	C:/Users/modug/OneDrive/Desktop/QT5 Creator/QMessageBox/build/Desktop-Debug/QMessageBox_autogen/timestamp	11dbaf333ba46b33
+27	515	7560569842689545	C:/Users/modug/OneDrive/Desktop/QT5 Creator/QMessageBox/build/Desktop-Debug/QMessageBox_autogen/mocs_compilation.cpp	11dbaf333ba46b33
+535	3198	7560569876655686	CMakeFiles/QMessageBox.dir/mainwindow.cpp.obj	5ea988a6409c048d
+3198	3835	7560569881682951	QMessageBox.exe	78b5b19d9172167e
+21	425	7560571673446508	QMessageBox_autogen/timestamp	11dbaf333ba46b33
+21	425	7560571673446508	QMessageBox_autogen/mocs_compilation.cpp	11dbaf333ba46b33
+21	425	7560571673446508	C:/Users/modug/OneDrive/Desktop/QT5 Creator/QMessageBox/build/Desktop-Debug/QMessageBox_autogen/timestamp	11dbaf333ba46b33
+21	425	7560571673446508	C:/Users/modug/OneDrive/Desktop/QT5 Creator/QMessageBox/build/Desktop-Debug/QMessageBox_autogen/mocs_compilation.cpp	11dbaf333ba46b33
+22	384	7560572110373007	QMessageBox_autogen/timestamp	11dbaf333ba46b33
+22	384	7560572110373007	QMessageBox_autogen/mocs_compilation.cpp	11dbaf333ba46b33
+22	384	7560572110373007	C:/Users/modug/OneDrive/Desktop/QT5 Creator/QMessageBox/build/Desktop-Debug/QMessageBox_autogen/timestamp	11dbaf333ba46b33
+22	384	7560572110373007	C:/Users/modug/OneDrive/Desktop/QT5 Creator/QMessageBox/build/Desktop-Debug/QMessageBox_autogen/mocs_compilation.cpp	11dbaf333ba46b33
+30	480	7560572490921965	QMessageBox_autogen/timestamp	11dbaf333ba46b33
+30	480	7560572490921965	QMessageBox_autogen/mocs_compilation.cpp	11dbaf333ba46b33
+30	480	7560572490921965	C:/Users/modug/OneDrive/Desktop/QT5 Creator/QMessageBox/build/Desktop-Debug/QMessageBox_autogen/timestamp	11dbaf333ba46b33
+30	480	7560572490921965	C:/Users/modug/OneDrive/Desktop/QT5 Creator/QMessageBox/build/Desktop-Debug/QMessageBox_autogen/mocs_compilation.cpp	11dbaf333ba46b33
+503	2982	7560572543270386	CMakeFiles/QMessageBox.dir/mainwindow.cpp.obj	5ea988a6409c048d
+2983	3423	7560572547029659	QMessageBox.exe	78b5b19d9172167e
