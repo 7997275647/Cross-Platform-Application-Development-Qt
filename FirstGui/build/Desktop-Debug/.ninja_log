@@ -1,0 +1,9 @@
+# ninja log v5
+18	1987	7560705506728972	FirstGui_autogen/timestamp	265646cfc8d19861
+18	1987	7560705506728972	FirstGui_autogen/mocs_compilation.cpp	265646cfc8d19861
+18	1987	7560705506728972	C:/Users/modug/OneDrive/Desktop/QT5 Creator/FirstGui/build/Desktop-Debug/FirstGui_autogen/timestamp	265646cfc8d19861
+18	1987	7560705506728972	C:/Users/modug/OneDrive/Desktop/QT5 Creator/FirstGui/build/Desktop-Debug/FirstGui_autogen/mocs_compilation.cpp	265646cfc8d19861
+1997	4590	7560705534073251	CMakeFiles/FirstGui.dir/FirstGui_autogen/mocs_compilation.cpp.obj	d51451d045dfe24
+2013	4631	7560705534491749	CMakeFiles/FirstGui.dir/main.cpp.obj	3bfc59f071ab493e
+2027	4732	7560705535467186	CMakeFiles/FirstGui.dir/mainwindow.cpp.obj	2ce7693660497b4a
+4735	5548	7560705543353998	FirstGui.exe	edde64c4f86b2631
