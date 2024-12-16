@@ -1,8 +1,0 @@
-C:/Users/modug/OneDrive/Desktop/QT5 Creator/FirstGui/build/Desktop-Debug/CMakeFiles/FirstGui.dir
-C:/Users/modug/OneDrive/Desktop/QT5 Creator/FirstGui/build/Desktop-Debug/CMakeFiles/edit_cache.dir
-C:/Users/modug/OneDrive/Desktop/QT5 Creator/FirstGui/build/Desktop-Debug/CMakeFiles/rebuild_cache.dir
-C:/Users/modug/OneDrive/Desktop/QT5 Creator/FirstGui/build/Desktop-Debug/CMakeFiles/list_install_components.dir
-C:/Users/modug/OneDrive/Desktop/QT5 Creator/FirstGui/build/Desktop-Debug/CMakeFiles/install.dir
-C:/Users/modug/OneDrive/Desktop/QT5 Creator/FirstGui/build/Desktop-Debug/CMakeFiles/install/local.dir
-C:/Users/modug/OneDrive/Desktop/QT5 Creator/FirstGui/build/Desktop-Debug/CMakeFiles/FirstGui_autogen_timestamp_deps.dir
-C:/Users/modug/OneDrive/Desktop/QT5 Creator/FirstGui/build/Desktop-Debug/CMakeFiles/FirstGui_autogen.dir
